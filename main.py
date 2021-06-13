@@ -139,7 +139,6 @@ class Program:
                                 except:
                                     pass
 
-                            #  OtherBase Entities
                             for i in range(len(self.sznames)):
                                 try:
                                     if self.sznames[i] in szName:
