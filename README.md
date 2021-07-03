@@ -9,5 +9,5 @@ Offsets & Pointers are 100% outdated.
 This won't work on any EAC enabled server.
 
 
-![GUI](./gui.png)
-![Overlay](./overlay.png)
+![GUI](./images/gui.png)
+![Overlay](./images/overlay.png)
