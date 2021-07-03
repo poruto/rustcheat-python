@@ -10,4 +10,4 @@ This won't work on any EAC enabled server.
 
 
 ![GUI](./gui.png)
-![alt text](http://url/to/img.png)
+![Overlay](./overlay.png)
