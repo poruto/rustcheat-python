@@ -7,3 +7,7 @@ A cheat software for Facepunch's Rust that I have done back in 2020... (purely i
 Offsets & Pointers are 100% outdated.
 
 This won't work on any EAC enabled server.
+
+
+![GUI](./gui.png)
+![alt text](http://url/to/img.png)
